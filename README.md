@@ -1,7 +1,6 @@
 # WebSocket 学习
 
 以 [websocket.org](https://websocket.org) 站点内容为主体的 WebSocket 协议学习项目。
-个人学习用：读内容 → 记笔记 → 动手实验。
 
 ## 目录结构
 
