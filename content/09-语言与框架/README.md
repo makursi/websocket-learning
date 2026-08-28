@@ -1,6 +1,6 @@
 # 09 · 语言与框架 — Languages & Frameworks
 
-> 各语言/框架的 WebSocket 生态选型。对应站点：/guides/languages/* 与 /guides/frameworks/*。
+> 各语言/框架的 WebSocket 生态选型。对应站点：/guides/languages/*与 /guides/frameworks/*。
 
 ## 学习目标
 

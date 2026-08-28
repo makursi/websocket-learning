@@ -1,6 +1,6 @@
 # 10 · 参考速查 — Reference
 
-> 查表用：关闭码、浏览器支持、头部、端口、故障排查。对应站点：/reference/* 与 /guides/troubleshooting/*。本目录刻意保持与站点一致的"速查手册"组织（见 ADR-0001）。
+> 查表用：关闭码、浏览器支持、头部、端口、故障排查。对应站点：/reference/*与 /guides/troubleshooting/*。本目录刻意保持与站点一致的"速查手册"组织（见 ADR-0001）。
 
 ## 学习目标
 
