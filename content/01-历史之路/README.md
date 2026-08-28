@@ -16,11 +16,8 @@
 - [ ] HTTP 流 / chunked transfer encoding
 - [ ] 2008 年 Michael Carter 与 Ian Hickson 提出 WebSocket 的背景
 
-## 对应站点链接
-
-- https://websocket.org/guides/road-to-websockets/
-- https://websocket.org/once-upon-a-socket/（WebSocket 诞生故事）
 
 ## 笔记状态
 
-📝 未开始
+
+
