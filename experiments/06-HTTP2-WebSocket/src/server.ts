@@ -99,8 +99,8 @@ server.on('stream', (stream, headers) => {
 })
 
 // 监听服务
-server.listen(8080, () => {
-  console.log('HTTP/2 server running at http://localhost:8080')
+server.listen(8001, () => {
+  console.log('HTTP/2 server running at http://localhost:8001')
 })
 
 // WebSocket Frame解码

@@ -1,6 +1,6 @@
 import http2 from 'node:http2'
 
-const client = http2.connect('http://localhost:8080')
+const client = http2.connect('http://localhost:8001')
 
 client.on('error', (err) => {
   console.error(err)
